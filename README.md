@@ -9,9 +9,10 @@ Insights and recommendations are provided on the following key areas:
 - Potential brands with high profitability but low sales.  
 - Contribution of top vendors to overall market performance.  
 - Impact of bulk purchasing on per-unit cost.  
-
-**Interactive Power BI Dashboard** – [click here]()  
-**Python notebooks** – [click here]()  
+  
+**Python notebooks** – [click here]()
+**Excel Preliminary Report** – [click here]()
+**Interactive Power BI Dashboard** – [click here]()
 
 ---
 

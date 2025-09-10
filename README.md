@@ -10,11 +10,11 @@ Insights and recommendations are provided on the following key areas:
 - Contribution of top vendors to overall market performance.  
 - Impact of bulk purchasing on per-unit cost.  
   
-**Python notebooks** – [click here]()
+**Python notebooks** – [click here](notebooks)
 
-**Excel Preliminary Report** – [click here]()
+**Excel Preliminary Report** – [click here](Excel Preliminary Report)
 
-**Interactive Power BI Dashboard** – [click here]()
+**Interactive Power BI Dashboard** – [click here](Power BI Dashboard)
 
 ---
 

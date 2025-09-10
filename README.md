@@ -11,7 +11,9 @@ Insights and recommendations are provided on the following key areas:
 - Impact of bulk purchasing on per-unit cost.  
   
 **Python notebooks** – [click here]()
+
 **Excel Preliminary Report** – [click here]()
+
 **Interactive Power BI Dashboard** – [click here]()
 
 ---

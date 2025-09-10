@@ -110,7 +110,7 @@ Before starting the analysis, several checks and fixes were performed:
 ---
 
 ## Dashboard Snapshots
-### Excel Snapshot Dashboard  
+### Excel Preliminary Report 
 ![Excel Preliminary Report](images/excel_preliminary_report.png)  
 
 ### Power BI Executive Dashboard  

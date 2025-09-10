@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
   
 **Python notebooks** – [click here](notebooks)
 
-**Excel Preliminary Report** – [click here](Excel Preliminary Report)
+**Excel Preliminary Report** – [click here](excel_report)
 
 **Interactive Power BI Dashboard** – [click here](Power BI Dashboard)
 

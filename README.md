@@ -28,8 +28,8 @@ The dataset consists of **6 tables**, but only 4 are relevant for the scope of t
 
 The main fact table is **purchases**, with **2,372,474 records**.  
 
-📌 **Entity Relationship Diagram (ERD)**  
-*(Insert ERD visual here)*  
+**Entity Relationship Diagram (ERD)**  
+![ERD Diagram](images/erd_diagram.png) 
 
 ### Data Cleaning & Preparation
 Before starting the analysis, several checks and fixes were performed:
@@ -47,8 +47,10 @@ Before starting the analysis, several checks and fixes were performed:
 - **High-margin underperformers:** Several brands with **profit margins >90% but sales < $200K** represent untapped growth opportunities.  
 - **Bulk purchase efficiency:** Large order sizes significantly reduce unit costs, improving margins.  
 
-📸 **Dashboard Preview**  
-*(Insert dashboard visual here)*  
+**Dashboard Preview** 
+![Excel Preliminary Report](images/excel_preliminary_report.png) 
+
+![Power BI Dashboard](images/powerbi_dashboard.png)  
 
 ---
 
@@ -59,7 +61,11 @@ Before starting the analysis, several checks and fixes were performed:
 - Top 10 vendors contribute ~70% of total sales, showing **heavy reliance on a few key players**.  
 - Brand-level analysis highlights which brands are driving growth across the industry.  
 
-📊 *(Insert visuals: Python vendor/brand charts + Power BI visuals)*  
+![Top 10 Vendors](images/top_10_vendors.png)
+
+![Top 10 Vendors Contribution](images/top_10_vendors_contribution.png)
+
+![Top 10 Brands](images/top_10_brands.png)
 
 ---
 
@@ -68,7 +74,7 @@ Before starting the analysis, several checks and fixes were performed:
 - These are **high-potential underperformers** – ideal targets for promotional campaigns.  
 - Increasing their market share could lead to substantial profit growth.  
 
-📊 *(Insert scatter plot + Power BI underperforming brands table)*  
+![Underperforming Brands](images/underperforming_brands_scatter_chart.png)
 
 ---
 
@@ -77,7 +83,7 @@ Before starting the analysis, several checks and fixes were performed:
 - The difference between small and large orders is ~**72% reduction in unit cost**.  
 - This confirms that **bulk pricing strategies encourage larger purchases**, boosting total sales even with lower per-unit revenue.  
 
-📊 *(Insert boxplot / scatter visual)*  
+![Top 10 Brands](images/impact_of_bulk_purchase.png) 
 
 ---
 
@@ -97,15 +103,15 @@ Before starting the analysis, several checks and fixes were performed:
 ---
 
 ## Project Artifacts
-- 🐍 **Python notebooks** (exploratory analysis) – [click here]()  
-- 📊 **Excel preliminary dashboard** – [click here]()  
-- 📈 **Power BI executive dashboard** – [click here]()  
+- **Python notebooks**  – [click here](notebooks)  
+- **Excel preliminary dashboard** – [click here](excel_report)  
+- **Power BI executive dashboard** – [click here](powerbi_dashboard)  
 
 ---
 
-## 📸 Dashboard Snapshots
+## Dashboard Snapshots
 ### Excel Snapshot Dashboard  
-*(Insert Excel visual)*  
+![Excel Preliminary Report](images/excel_preliminary_report.png)  
 
 ### Power BI Executive Dashboard  
-*(Insert Power BI visual)*  
+![Power BI Dashboard](images/powerbi_dashboard.png)  

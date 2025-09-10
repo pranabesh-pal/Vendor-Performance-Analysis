@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
 
 **Excel Preliminary Report** – [click here](excel_report)
 
-**Interactive Power BI Dashboard** – [click here](Power BI Dashboard)
+**Interactive Power BI Dashboard** – [click here](powerbi_dashboard)
 
 ---
 

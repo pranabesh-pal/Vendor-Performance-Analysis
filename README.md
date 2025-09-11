@@ -94,7 +94,7 @@ Before starting the analysis, several checks and fixes were performed:
 
 ---
 
-## ⚠Assumptions & Caveats
+## Assumptions & Caveats
 - Missing freight values were treated as 0 (assumed freight waived).  
 - Extreme turnover values (>100x) were included but flagged as outliers.  
 - Data represents a **single period** – seasonal/promotional variations are not reflected.  
